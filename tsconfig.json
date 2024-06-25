@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext",
+      "target": "ESNext",
+      "sourceMap": true,
+      "outDir": "public/dist",
+  },
+  "include": ["src//*.ts"]
+}
